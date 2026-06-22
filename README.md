@@ -5,6 +5,7 @@ This project classifies Fashion-MNIST clothing images using Deep Learning with T
 
 ## Dataset
 Fashion-MNIST dataset contains 70,000 grayscale images of clothing items belonging to 10 categories.
+
 ##Technologies Used 
 -Python
 -NumPy
